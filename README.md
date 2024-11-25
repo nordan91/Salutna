@@ -1,0 +1,2 @@
+# Salutna
+Aplikasi Manajemen Keuangan
